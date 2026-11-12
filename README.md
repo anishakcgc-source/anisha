@@ -1,12 +1,15 @@
-# A gift for Anisha 💜 — v1
+# A gift for Anisha 💜 — v2
 
 A single `index.html` — her photo is embedded in the file, music streams from Archive.org. No build step.
 
 ## The idea
 She's a BTS fan (💜), so the whole page is purple: 7 hearts to light, the Magic Shop, and "Borahae" at the end. Her own line — some things make your heart smile every day — is woven into the Magic Shop letter, in my own words.
 
-## Music
-"How Deep Is Your Love" on soft piano (Ray W Smith, piano instrumental, 3:31, Archive.org, plain MP3, no ads). Plays softly throughout, starting on the first tap (volume 0.07, ducks on firework booms). The sound toggle pauses/resumes it.
+## Music — v2 (2026-11-11)
+BTS "Magic Shop" — the actual BTS song, not a cover (Archive.org item bts_20210519, plain MP3, 4:36, no ads, NOT YouTube — YouTube inserts ads). Plays softly throughout, starting on the first tap (volume 0.10, ducks on firework booms). The sound toggle pauses/resumes it.
+
+## Message — v2 (2026-11-11)
+The finale now says it honestly: she is an amazing person, he doesn't think they will be together, and this is his last chance to leave an impression — no promise, no plea. And it says **Happy Tihar**, not Dashain.
 
 ## The journey — one screen leads to the next
 1. **Envelope** — "For Anisha" — tap anywhere to open, with a chime
